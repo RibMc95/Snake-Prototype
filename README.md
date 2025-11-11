@@ -54,7 +54,6 @@ Snake/
 ├── Grid.h          # Grid utilities (if used)
 ├── Queue.h         # Queue data structure utilities
 ├── Makefile        # Build configuration
-└── README.md       # This file
 ```
 
 ## Compilation
