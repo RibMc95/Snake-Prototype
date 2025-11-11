@@ -53,7 +53,7 @@ Snake/
 ├── Food.h          # Food class for food generation
 ├── Grid.h          # Grid utilities (if used)
 ├── Queue.h         # Queue data structure utilities
-├── Makefile        # Build configuration
+├── README.md       # This File
 ```
 
 ## Compilation
